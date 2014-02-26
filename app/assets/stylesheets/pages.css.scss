@@ -1,0 +1,24 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#actions {
+	padding: 5px;
+}
+
+
+@import url(http://fonts.googleapis.com/css?family=Gafata);
+#name {
+    font-family: 'Gafata';
+	font-size: 30px;
+	line-height: 30px;
+	text-align: center;
+	border-top: 1px solid #E3E3E3;
+	border-bottom: 1px solid #E3E3E3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#page_content{
+	padding-top: 10px;
+}
